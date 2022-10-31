@@ -1,33 +1,21 @@
-# AirBnB Clone
+Airbnb clone of experience page.
+clone of airbnb web app with almost similar features.
 
-<b>💡Inspiration💡</b>
-🌴🌇I've always admired the AirBnB website, and desired to make a clone of it. Clever Programmer helped me greatly in this clone. 🌇🌴
+TechStack
+-Reactjs
 
+-MaterialUi
 
-<b>❓What it does❓</b>
-This is just a clone of the AirBnb Site, with Calendars, interactive Moving UI, Grids, and ratings of renting places. 
+-TailwindCss
 
-<b>🔨How we built it🔨</b>
-I used ReactJS to Build this Application. 
+-CSS
 
-
-<b>💔Challenges we ran into💔</b>
-I ran into challenges deploying the calendar of the AirBnB clone. I also had some difficulty with the Grid functionality. 
+-React slick
 
 
-<b>🏆Accomplishments that we're proud of🏆</b>
-I learned the basics of ReactJS. This was my first website in react, which was quite an achievement for me. 
+Deployment
+-Netlify
 
-
-<b>🎓What we learned🎓</b>
-I learned how to implement applications in ReactJS with the HTML and CSS. I also learned how to deploy a website using FireBase. 
-
-
-<b>❓What's next for AirBnB Clone❓</b>
-I will implement more ReactJS projects in the future to further improve my skills as a web developer. 
-
-
-<b>💙Built With JavaScript and ReactJS💙</b>
-
-
-<a href = "https://www.youtube.com/watch?v=TXeGOLr6-5Q"> 🎥Presentation Video 🎥</a>
+Run
+Step1-npm i
+Step2- npm srart
