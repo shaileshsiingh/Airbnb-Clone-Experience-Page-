@@ -18,4 +18,5 @@ Deployment
 
 Run
 Step1-npm i
-Step2- npm srart
+Step2- npm start
+
