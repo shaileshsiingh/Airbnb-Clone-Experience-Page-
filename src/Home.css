@@ -1,0 +1,14 @@
+.home__section {
+    display: flex;
+    padding: 30px;
+}
+
+div > img {
+    width: 825px;
+    height: 325px;
+    border-radius: 10px;
+ }
+
+ .button1{
+    margin-top: 208px;
+ }
